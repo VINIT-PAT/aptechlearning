@@ -199,40 +199,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="newsletter__content">
                             <h2 class="title"><span>Aptech's Smart Professional Programs</span></h2>
                             <div class="newsletter__form">
-                               <h4 class="text-white">Get trained in all the latest technologies to make you a job-ready professional. The various courses impart all the skills necessary to explore careers in:</h4>
+                               <h4 class="text-white">Get trained in all the latest technologies to make you a job-ready professional. The various courses impart all the skills necessary to explore careers in IT.</h4>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="col-xl-6 col-lg-6">
-                                <ul class="about__info-list list-wrap">
-                                    <li class="about__info-list-item">
-                                        <i class="flaticon-angle-right"></i>
-                                        <p class="content text-white">Data Science</p>
-                                    </li>
-                                    <li class="about__info-list-item">
-                                        <i class="flaticon-angle-right"></i>
-                                        <p class="content text-white">Digital Marketing</p>
-                                    </li>
-                                    <li class="about__info-list-item">
-                                        <i class="flaticon-angle-right"></i>
-                                        <p class="content text-white">Python Developer</p>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="col-xl-6 col-lg-6">
-                                <ul class="about__info-list list-wrap">
-                                    <li class="about__info-list-item">
-                                        <i class="flaticon-angle-right"></i>
-                                        <p class="content text-white">Java Developer</p>
-                                    </li>
-                                    <li class="about__info-list-item">
-                                        <i class="flaticon-angle-right"></i>
-                                        <p class="content text-white">Artificial Intelligence & Machine Learning</p>
-                                    </li>
-                                </ul>
-                            </div>        
-                        </div>
-                     
                     </div>
             </div>
             <div class="newsletter__shape">
@@ -242,97 +211,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- newsletter-area-end -->
         
         <!-- categories-area -->
-        <section class="categories-area section-py-120">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-5 col-lg-7">
-                        <div class="section__title text-center mb-40">
-                            <!-- <span class="sub-title">Trending Courses</span> -->
-                            <h2 class="title">Trending Courses</h2>
-                            <!-- <p class="desc">when known printer took a galley of type scrambl edmake</p> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12">
-                        <div class="categories__wrap">
-                            <div class="swiper categories-active">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="categories__item">
-                                            <a href="ai_ml.php">
-                                                <div class="icon">
-                                                <i class="fa-solid fa-microchip"></i>
-                                                </div>
-                                                <span class="name">AI ML</span>
-                                                <!-- <span class="courses">(22)</span> -->
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="categories__item">
-                                            <a href="data_science.php">
-                                                <div class="icon">
-                                                    <i class="flaticon-investment"></i>
-                                                </div>
-                                                <span class="name">Data Science</span>
-                                                <!-- <span class="courses">(41)</span> -->
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="categories__item">
-                                            <a href="digital_marketing.php">
-                                                <div class="icon">
-                                                    <i class="fa-solid fa-bullhorn"></i>
-                                                </div>
-                                                <span class="name">Digital Marketing</span>
-                                                <!-- <span class="courses">(29)</span> -->
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="categories__item">
-                                            <a href="python.php">
-                                                <div class="icon">
-                                                <i class="fa-brands fa-python"></i>
-                                                </div>
-                                                <span class="name">Python Developer</span>
-                                                <!-- <span class="courses">(31)</span> -->
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="categories__item">
-                                            <a href="java.php">
-                                                <div class="icon">
-                                                <i class="fa-brands fa-java"></i>
-                                                </div>
-                                                <span class="name">Java Developer</span>
-                                                <!-- <span class="courses">(23)</span> -->
-                                            </a>
-                                        </div>
-                                    </div>
-                                   
-                                </div>
-                            </div>
-                            <div class="categories__nav">
-                                <button class="categories-button-prev">
-                                    <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M15 7L1 7M1 7L7 1M1 7L7 13" stroke="#161439" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    </svg>
-                                </button>
-                                <button class="categories-button-next">
-                                    <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M1 7L15 7M15 7L9 1M15 7L9 13" stroke="#161439" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    </svg>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+       
         <!-- categories-area-end -->
 
          <!-- about-area -->
@@ -346,76 +225,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
                 <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-6">
-                        <div class="about__content">
-                            <div class="section__title">
-                                <h2 class="title">
-                                    <span class="position-relative pb-15 d-flex justify-content-center">
-                                        <svg x="0px" y="0px" preserveAspectRatio="none" viewBox="0 0 209 59" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M4.74438 7.70565C69.7006 -1.18799 136.097 -2.38304 203.934 4.1205C207.178 4.48495 209.422 7.14626 208.933 10.0534C206.793 23.6481 205.415 36.5704 204.801 48.8204C204.756 51.3291 202.246 53.5582 199.213 53.7955C136.093 59.7623 74.1922 60.5985 13.5091 56.3043C10.5653 56.0924 7.84371 53.7277 7.42158 51.0325C5.20725 38.2627 2.76333 25.6511 0.0898448 13.1978C-0.465589 10.5873 1.61173 8.1379 4.73327 7.70565" fill="currentcolor" />
-                                        </svg>
-                                        Artificial Intelligence 
-                                    </span>
-                                    <span class="position-relative d-flex justify-content-center">
-                                        <svg x="0px" y="0px" preserveAspectRatio="none" viewBox="0 0 209 59" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M4.74438 7.70565C69.7006 -1.18799 136.097 -2.38304 203.934 4.1205C207.178 4.48495 209.422 7.14626 208.933 10.0534C206.793 23.6481 205.415 36.5704 204.801 48.8204C204.756 51.3291 202.246 53.5582 199.213 53.7955C136.093 59.7623 74.1922 60.5985 13.5091 56.3043C10.5653 56.0924 7.84371 53.7277 7.42158 51.0325C5.20725 38.2627 2.76333 25.6511 0.0898448 13.1978C-0.465589 10.5873 1.61173 8.1379 4.73327 7.70565" fill="currentcolor" />
-                                        </svg>
-                                         & Machine Learning
-                                    </span>
-                                </h2>
-                            </div>
-                            <p class="desc">This course is aimed at providing you job-oriented training in Python, Apache Cassandra, R Studio and more for a career in Artificial Intelligence & Machine Learning. With expertise in data management, R programming and AI Primer (ML, DL, Neural N/Ws), you will be ready to work for top IT companies as Machine Learning Engineer.</p>
-                         
-                            <div class="tg-button-wrap mob-butlg">
-                                <a href="#" class="btn arrow-btn">Book A Free Demo Now </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-9">
-                        <div class="about__images" data-aos="fade-right" data-aos-delay="200">
-                            <img src="assets/img/learn/ai-ml.jpg" alt="img" class="main-img">
-                        </div>
-                        <div class="tg-button-wrap mob-butsm justify-content-center">
-                            <a href="#" class="btn arrow-btn">Book A Free Demo Now</a>
-                        </div>
-                    </div>
-                </div>
-            </div><br><br>
-            <div class="container">
-                <div class="row align-items-center justify-content-center">
-                   
-                    <div class="col-lg-6">
-                        <div class="about__content">
-                            <div class="section__title">
-                                <!-- <span class="sub-title">Get More About Us</span> -->
-                                <h2 class="title">
-                                    <!-- Thousand Of Top -->
-                                    <span class="position-relative d-flex justify-content-center">
-                                        <svg x="0px" y="0px" preserveAspectRatio="none" viewBox="0 0 209 59" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M4.74438 7.70565C69.7006 -1.18799 136.097 -2.38304 203.934 4.1205C207.178 4.48495 209.422 7.14626 208.933 10.0534C206.793 23.6481 205.415 36.5704 204.801 48.8204C204.756 51.3291 202.246 53.5582 199.213 53.7955C136.093 59.7623 74.1922 60.5985 13.5091 56.3043C10.5653 56.0924 7.84371 53.7277 7.42158 51.0325C5.20725 38.2627 2.76333 25.6511 0.0898448 13.1978C-0.465589 10.5873 1.61173 8.1379 4.73327 7.70565" fill="currentcolor" />
-                                        </svg>
-                                        Data Science
-                                    </span>
-                                    <!-- Now in One Place -->
-                                </h2>
-                            </div>
-                            <p class="desc">With this course, you will learn the most in-demand technologies like Data Science on R, Python, SMAC, Big Data on Hadoop and implement the concepts such as data exploration, regression model, Hadoop, etc. Upon successful completion of the course, you would be able to join top domestic & global companies as Data Analyst/Data Visualizer.</p>
-                         
-                            <div class="tg-button-wrap mob-butlg">
-                                <a href="#" class="btn arrow-btn">Book A Free Demo Now </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-                        <div class="about__images" data-aos="fade-left" data-aos-delay="200">
-                            <img src="assets/img/learn/data-science.png" alt="img" class="main-img">
-                        </div>
-                        <div class="tg-button-wrap mob-butsm justify-content-center">
-                            <a href="#" class="btn arrow-btn">Book A Free Demo Now</a>
-                        </div>
-                    </div>
-                </div>
-            </div><br><br>
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6">
@@ -449,77 +258,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </div>
                 </div>
-            </div><br><br>
-            <div class="container">
-                <div class="row align-items-center justify-content-center">
-                   
-                    <div class="col-lg-6">
-                        <div class="about__content">
-                            <div class="section__title">
-                                <!-- <span class="sub-title">Get More About Us</span> -->
-                                <h2 class="title">
-                                    <!-- Thousand Of Top -->
-                                    <span class="position-relative d-flex justify-content-center">
-                                        <svg x="0px" y="0px" preserveAspectRatio="none" viewBox="0 0 209 59" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M4.74438 7.70565C69.7006 -1.18799 136.097 -2.38304 203.934 4.1205C207.178 4.48495 209.422 7.14626 208.933 10.0534C206.793 23.6481 205.415 36.5704 204.801 48.8204C204.756 51.3291 202.246 53.5582 199.213 53.7955C136.093 59.7623 74.1922 60.5985 13.5091 56.3043C10.5653 56.0924 7.84371 53.7277 7.42158 51.0325C5.20725 38.2627 2.76333 25.6511 0.0898448 13.1978C-0.465589 10.5873 1.61173 8.1379 4.73327 7.70565" fill="currentcolor" />
-                                        </svg>
-                                        Python Developer
-                                    </span>
-                                    <!-- Now in One Place -->
-                                </h2>
-                            </div>
-                            <p class="desc">This course will train you in implementing software development process using Agile & DevOps methodologies, building web applications using Python, understanding the Django web framework for Python and building a real-world Python-based web application.</p>
-                           
-                            <div class="tg-button-wrap mob-butlg">
-                                <a href="#" class="btn arrow-btn">Book A Free Demo Now </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-9">
-                        <div class="about__images" data-aos="fade-left" data-aos-delay="200">
-                            <img src="assets/img/learn/python-development.jpg" alt="img" class="main-img">
-                        </div>
-                        <div class="tg-button-wrap mob-butsm justify-content-center">
-                            <a href="#" class="btn arrow-btn">Book A Free Demo Now</a>
-                        </div>
-                    </div>
-                </div>
-            </div><br><br>
-            <div class="container">
-                <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-6">
-                        <div class="about__content">
-                            <div class="section__title">
-                                <!-- <span class="sub-title">Get More About Us</span> -->
-                                <h2 class="title">
-                                    <!-- Thousand Of Top -->
-                                    <span class="position-relative d-flex justify-content-center">
-                                        <svg x="0px" y="0px" preserveAspectRatio="none" viewBox="0 0 209 59" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M4.74438 7.70565C69.7006 -1.18799 136.097 -2.38304 203.934 4.1205C207.178 4.48495 209.422 7.14626 208.933 10.0534C206.793 23.6481 205.415 36.5704 204.801 48.8204C204.756 51.3291 202.246 53.5582 199.213 53.7955C136.093 59.7623 74.1922 60.5985 13.5091 56.3043C10.5653 56.0924 7.84371 53.7277 7.42158 51.0325C5.20725 38.2627 2.76333 25.6511 0.0898448 13.1978C-0.465589 10.5873 1.61173 8.1379 4.73327 7.70565" fill="currentcolor" />
-                                        </svg>
-                                        Java Developer
-                                    </span>
-                                    <!-- Now in One Place -->
-                                </h2>
-                            </div>
-                            <p class="desc">In Java, you get trained in Java Web Application Development & Java Enterprise Application Development. With Java Web Application Development, build rich and robust web applications through Java technologies. With Java Enterprise Application Development, design and develop enterprise solutions using Java enterprise technologies.</p>
-                            
-                            <div class="tg-button-wrap mob-butlg">
-                                <a href="#" class="btn arrow-btn">Book A Free Demo Now </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-9">
-                        <div class="about__images" data-aos="fade-right" data-aos-delay="200">
-                            <img src="assets/img/learn/java.jpg" alt="img" class="main-img">
-                        </div>
-                        <div class="tg-button-wrap mob-butsm justify-content-center">
-                            <a href="#" class="btn arrow-btn">Book A Free Demo Now</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-           
+            </div><br><br>    
         </section>
         <!-- about-area-end -->
   <!-- student start -->

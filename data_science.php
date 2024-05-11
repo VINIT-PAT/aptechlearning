@@ -123,7 +123,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="container">
                 <div class="row justify-content-center section-pb-50">
                 
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 m-2">
                         <div class="contact-form-wrap" data-aos="fade-left" data-aos-delay="100">
                             <h4 class="title text-center">CAREER GUIDANCE FORM</h4>
                             <!--<p>Your email address will not be published. Required fields are marked *</p>-->
@@ -199,7 +199,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="newsletter__content">
                             <h2 class="title"><span>Aptech's Smart Professional Programs</span></h2>
                             <div class="newsletter__form">
-                               <h4 class="text-white">Get trained in all the latest technologies to make you a job-ready professional. The various courses impart all the skills necessary to explore careers in:</h4>
+                               <h4 class="text-white">Get trained in all the latest technologies to make you a job-ready professional. The various courses impart all the skills necessary to explore careers in IT.</h4>
                             </div>
                         </div>
                     </div>
@@ -225,31 +225,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
                 <div class="row align-items-center justify-content-center">
-                    <!-- <div class="col-lg-6">
-                        <div class="about__content">
-                            <div class="section__title">
-                                <h2 class="title">
-                                    <span class="position-relative pb-15 d-flex justify-content-center">
-                                        <svg x="0px" y="0px" preserveAspectRatio="none" viewBox="0 0 209 59" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M4.74438 7.70565C69.7006 -1.18799 136.097 -2.38304 203.934 4.1205C207.178 4.48495 209.422 7.14626 208.933 10.0534C206.793 23.6481 205.415 36.5704 204.801 48.8204C204.756 51.3291 202.246 53.5582 199.213 53.7955C136.093 59.7623 74.1922 60.5985 13.5091 56.3043C10.5653 56.0924 7.84371 53.7277 7.42158 51.0325C5.20725 38.2627 2.76333 25.6511 0.0898448 13.1978C-0.465589 10.5873 1.61173 8.1379 4.73327 7.70565" fill="currentcolor" />
-                                        </svg>
-                                        Artificial Intelligence 
-                                    </span>
-                                    <span class="position-relative d-flex justify-content-center">
-                                        <svg x="0px" y="0px" preserveAspectRatio="none" viewBox="0 0 209 59" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M4.74438 7.70565C69.7006 -1.18799 136.097 -2.38304 203.934 4.1205C207.178 4.48495 209.422 7.14626 208.933 10.0534C206.793 23.6481 205.415 36.5704 204.801 48.8204C204.756 51.3291 202.246 53.5582 199.213 53.7955C136.093 59.7623 74.1922 60.5985 13.5091 56.3043C10.5653 56.0924 7.84371 53.7277 7.42158 51.0325C5.20725 38.2627 2.76333 25.6511 0.0898448 13.1978C-0.465589 10.5873 1.61173 8.1379 4.73327 7.70565" fill="currentcolor" />
-                                        </svg>
-                                         & Machine Learning
-                                    </span>
-                                </h2>
-                            </div>
-                            <p class="desc">This course is aimed at providing you job-oriented training in Python, Apache Cassandra, R Studio and more for a career in Artificial Intelligence & Machine Learning. With expertise in data management, R programming and AI Primer (ML, DL, Neural N/Ws), you will be ready to work for top IT companies as Machine Learning Engineer.</p>
-                         
-                            <div class="tg-button-wrap mob-butlg">
-                                <a href="#" class="btn arrow-btn">Book A Free Demo Now </a>
-                            </div>
-                        </div>
-                    </div> -->
                         <div class="tg-button-wrap mob-butsm justify-content-center">
                             <a href="#" class="btn arrow-btn">Book A Free Demo Now</a>
                         </div>
